@@ -88,12 +88,11 @@ The survey provides preliminary evidence that promotion format is associated wit
 
 ## Limitations
 
-1. **Group-code inconsistency:** Promotion labels in notebook comments, analysis narrative, and later plotting code do not consistently agree. Reconcile these before making promotion-specific claims.
-2. **Self-reported outcomes:** Purchase intention and willingness to recommend are not actual conversion or referral behavior.
-3. **Sample representativeness:** The notebook describes a sample heavily concentrated among students and Chinese respondents, limiting generalizability.
-4. **Small sample:** The study contains 112 valid responses; the observed purchase-intention difference is not significant at α = 0.05.
-5. **Observational experience analysis:** Satisfaction regressions and correlations should not be interpreted as causal effects.
-6. **Reproducibility:** The notebook loads survey CSVs from Google Drive and includes notebook-state dependencies. A cleaned, privacy-safe data pipeline would make replication easier.
+1. **Self-reported outcomes:** Purchase intention and willingness to recommend are not actual conversion or referral behavior.
+2. **Sample representativeness:** The notebook describes a sample heavily concentrated among students and Chinese respondents, limiting generalizability.
+3. **Small sample:** The study contains 112 valid responses; the observed purchase-intention difference is not significant at α = 0.05.
+4. **Observational experience analysis:** Satisfaction regressions and correlations should not be interpreted as causal effects.
+5. **Reproducibility:** The notebook loads survey CSVs from Google Drive and includes notebook-state dependencies. A cleaned, privacy-safe data pipeline would make replication easier.
 
 ## Repository Structure
 
