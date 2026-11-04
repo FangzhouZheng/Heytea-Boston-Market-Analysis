@@ -113,4 +113,4 @@ Heytea-Boston-Market-Analysis/
 
 **Type:** Academic survey / A/B scenario analysis  
 **Market:** Boston, Massachusetts  
-**Brand studied:** HEYTEA (independent study; no official affiliation)
+**Brand studied:** HEYTEA
